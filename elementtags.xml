@@ -20,8 +20,8 @@
   </category>
   <category>
     <name>District 833 Contact Information</name>
-    <subcategory="first">EL District Office and EL Teachers</subcategory>
-    <subcategory="second">Elementary Schools</subcategory>
+    <subcategory order = "first">EL District Office and EL Teachers</subcategory>
+    <secondsubcategory>Elementary Schools</subcategory>
     <subcategory="third">Secondary Schools</subcategory>
     <subcategory="fourth">Nutrition Services (Breakfast/Lunch)</subcategory>
     <subcategory="fifth">Transportation (Busing)</subcategory>
